@@ -2,6 +2,7 @@
 The RC developments
 
 ## PWM 2 PPM
+(original post https://oscarliang.com/build-pwm-ppm-converter-arduino-2-4ghz-receiver/)
 ### Connection
 The connection is really simple.
 
