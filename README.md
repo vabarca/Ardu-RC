@@ -1,8 +1,8 @@
 # Ardu-RC
 The RC developments
 
-##PWM 2 PPM
-###Connection
+## PWM 2 PPM
+### Connection
 The connection is really simple.
 
 ![alt text](./src/PWM2PPM/pwm-ppm-converter-arduino-pro-mini-rx-connection.jpg "Image 1")
